@@ -1,0 +1,13 @@
+.ViewSchedules {
+  > div > .Calendar {
+    .fc-event {
+      cursor: auto;
+      text-overflow: clip;
+      white-space: nowrap;
+
+      &:hover {
+        box-shadow: unset;
+      }
+    }
+  }
+}

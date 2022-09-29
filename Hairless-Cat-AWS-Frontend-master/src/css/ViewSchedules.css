@@ -1,0 +1,11 @@
+.ViewSchedules > div > .Calendar .fc-event {
+    cursor: auto;
+    text-overflow: clip;
+    white-space: nowrap;
+}
+
+.ViewSchedules > div > .Calendar .fc-event:hover {
+    box-shadow: unset;
+}
+
+/*# sourceMappingURL=ViewSchedules.css.map */
